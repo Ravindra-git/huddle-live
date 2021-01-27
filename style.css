@@ -162,6 +162,9 @@ i{
         text-align: center;
         font-size: 1em;
     }
+.illustration-img{
+    margin-left: 0px;
+}
     button{
         margin: 0px;
         position: absolute;
